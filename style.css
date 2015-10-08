@@ -1,0 +1,23 @@
+#heading
+{
+	font: x-large sans-serif;
+	margin: 0px 0px 12pt 0px;
+}
+#authorInfoTable
+{
+	border: 0px none;
+	border-collapse: collapse;
+	margin: 0px 0px 12pt 0px;
+}
+#authorInfoTable td
+{
+	padding: 0px 12pt 0px 0px;
+}
+#lastUpdated
+{
+	margin: 0px 0px 12pt 0px;
+}
+.uploadContainerSpace
+{
+	margin: 0px 0px 12pt 0px;
+}
